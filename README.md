@@ -18,6 +18,7 @@ I have created the solution for above mentioned problem using 2 LLMs Model (GliN
 5. By using matplotlib, networkx libraries draw the knowledge graphs for the Entities with Relationships & edges.
 6. plot the output of Knowledge Graph.
 
+
 GliNER Source : https://github.com/urchade/GLiNER/blob/main/README.md
 
 Article refered regarding genetic structure of SARS-CoV-2 : https://onlinelibrary.wiley.com/doi/full/10.1002/bies.202000240
