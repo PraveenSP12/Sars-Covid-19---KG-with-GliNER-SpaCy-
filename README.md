@@ -11,7 +11,7 @@ Dataset Link : https://www.kaggle.com/datasets/allen-institute-for-ai/CORD-19-re
 
 Simple procedure :
 
-I have created the solution for above mentioned problem using LLMs (GliNER & Gliner_SpaCy) for NER Model and developed a knowledge graph using the Entities, Relations and Edges.
+I have created the solution for above mentioned problem using 2 LLMs Model (GliNER & Gliner_SpaCy) for NER Model and developed a knowledge graph using the Entities, Relations and Edges.
 
 1. Import the necessary libraries such as (Example: Gliner , Gliner_spacy , SpaCy , networkx, matplotlib, etc)
 2. Import the Dataset specific file named Metadata.csv (1.65 GB) , The whole Dataset contains 87 GB of Data which makes the model hard to execute. So filter the neccessary data and import it. Extract the needed Entity & Relationships based Data.
