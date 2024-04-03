@@ -21,6 +21,7 @@ I have created the solution for above mentioned problem using LLMs (GliNER & Gli
 6. plot the output of Knowledge Graph.
 
 GliNER Source : https://github.com/urchade/GLiNER/blob/main/README.md
+
 Article refered regarding genetic structure of SARS-CoV-2 : https://onlinelibrary.wiley.com/doi/full/10.1002/bies.202000240
 
 Output :
