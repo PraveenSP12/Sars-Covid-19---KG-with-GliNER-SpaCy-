@@ -5,8 +5,6 @@ Problem Statment : Decoding Covid-19 with Genome Analysis using knowledge graph
 
 Overview Given problem statement You are one of the researchers responding to the White House Office of Science and Technology Policy center’s call to conduct advanced research on Covid-19. You are working with CDC, which has led a coordinated effort to set up a machine readable dataset. A dataset that represents the most extensive machine-readable coronavirus literature collection available for data and text mining to date, with over 29,000 articles, more than 13,000 of which have full text. Using the CORD-NER dataset and Knowledge Graph, determine and map out the details of the SARS-CoV-2 genome to assist understanding of the emergence, evolution and diagnosis of this deadly virus.
 
-knowledge graphs in machine learning : A knowledge graph, also known as a semantic network, represents a network of real-world entities—i.e. objects, events, situations, or concepts—and illustrates the relationship between them. This information is usually stored in a graph database and visualized as a graph structure, prompting the term knowledge “graph.”
-
 Dataset Link : https://www.kaggle.com/datasets/allen-institute-for-ai/CORD-19-research-challenge
 
 Simple procedure :
